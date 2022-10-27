@@ -1,12 +1,12 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 
 public class FirstScript : MonoBehaviour
 { 
-   //³æ¦æµù¸Ñ
+   //å–®è¡Œè¨»è§£
    
-    /*¦h¦æµù¸Ñ
-     *¦h¦æµù¸Ñ
+    /*å¤šè¡Œè¨»è§£
+     *å¤šè¡Œè¨»è§£
      */
 
-    // A a ¤£¬Û¦Pªº¦r
+    // A a ä¸ç›¸åŒçš„å­—
 }
